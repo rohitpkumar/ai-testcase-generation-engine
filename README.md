@@ -108,5 +108,3 @@ Production-style modular engineering
 
 Rohit Kumar
 AI QA Engineer | Automation | AI Testing
-
-You are now building like an AI QA Architect.
